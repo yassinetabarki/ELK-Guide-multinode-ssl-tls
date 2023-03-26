@@ -26,7 +26,7 @@ Elasticsearch | 7.13.4 |[Version link](https://www.elastic.co/downloads/past-rel
 | Host Name | Node Name | IP Address
 | ------ | ------ |----- 
 | ES1 | node-1 | 62.4.8.223
-| metricbeat | node-2 | 62.4.8.221
+| ES2 | node-2 | 62.4.8.221
 
 # Download and install  Elasticsearch, Logstash, and Kibana
 ## intall and configure elasticsearch
